@@ -4,7 +4,7 @@
 
 <html>
     <head>
-        <title>HONEY POT DEMO</title></head>
+        <title>SPAM POT DEMO</title></head>
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet"/>
     <body>
@@ -13,7 +13,7 @@
             <div class="row" style="padding: 20px;">
                 <div class="col-md-4">
                     <p>Hello, we are proud to present our work:</p>
-                    <h2>Project Honeypot <i class="fa fa-forumbee"></i></h2>
+                    <h2>Project SpamPot <i class="fa fa-forumbee"></i></h2>
                     <p align="justify">Spambots usually fill in all the fields of a form. In this project we use this to protect the site from being spammed.
                         <br>
                         A special field is created for the spambot to fill something in with. The human is warned through the field placeholder to not fill anything in the field.

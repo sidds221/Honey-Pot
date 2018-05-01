@@ -4,6 +4,7 @@ if(isset($_COOKIE['backdoor']))
     header('Location: backdoor.php');
 }
 
+
 else{
     $valid = TRUE;
     $myFile = 'honey_log.txt';

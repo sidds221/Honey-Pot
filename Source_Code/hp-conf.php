@@ -3,5 +3,5 @@
 </head>
 <body>
 <p>Thank you human! You submission has been accepted!</p>
-<p><a href="index.php">&laquo; Back To HoneyPot Demo</a></p>
+<p><a href="index.php">&laquo; Back To Spam Pot Demo</a></p>
 </body></html>
